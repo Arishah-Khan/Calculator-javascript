@@ -139,14 +139,14 @@ body {
 
 @media (min-width: 600px) {
     .opra{
-        padding: 6px 18px;
+        padding: 6px 20px;
         margin: 6px; 
         font-size: large;
     }
 }
 @media (max-width: 601px) {
     .opra {
-        padding: 5px 15px;
+        padding: 5px 17px;
         margin: 6px; 
     }
 }
